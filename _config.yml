@@ -1,3 +1,7 @@
-theme: jekyll-theme-slate
+# Site settings
+
 title: Oakwolf Properties Ltd
 description: Oakwolf Properties Ltd Homepage
+
+# Build settings
+theme: minima
